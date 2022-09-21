@@ -1,5 +1,5 @@
 ### Telepresence Environment variables file tool
-*The tool* aim to remove environment variables from the *--env-file telepresence file* (https://www.telepresence.io/docs/v2.0/reference/environment/) these defined in a application settings file.
+*The tool* aim to remove environment variables from the *telepresence file --env-file* (https://www.telepresence.io/docs/v2.0/reference/environment/) these defined in a application settings file.
 
 For build the tool docker command can be used in the repository root directory 
 ```
